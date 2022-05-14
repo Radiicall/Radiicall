@@ -1,6 +1,6 @@
 ### Radical
 
-- Learning to code
+- Learning to code in Rust
 - Interested in backend mostly
 - Knowledge of Python and Javascript
 - Looking for new projects
