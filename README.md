@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I do stuff sometimes.</h1>
-<h3 align=center>
-  Name: Benjamin (aka: Goin or Radical)<br/><br/>
+<p align="center">
+	Name: Benjamin (aka: Goin or Radical)<br/><br/>
 	Experienced in: Python and Javascript<br/><br/>
 	Interested in: Rust<br/><br/>
 	Languages: English and Norwegian<br/><br/>
 	Likes: Linux
-</h3>
+</p>
 <h2 align=center>Contact me through:</h2>
 
 <p align="center"><a href="https://discordapp.com/users/368423564229083137" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Discord-2d2d2d?style=for-the-badge&logo=Discord" alt="Discord"></a> <a href="@radiicall:matrix.org"><img src="https://img.shields.io/badge/-Matrix-2d2d2d?style=for-the-badge&logo=Element" alt="Element"></a> <a href="mailto:radical@radical.fun"><img src="https://img.shields.io/badge/-Mail-2d2d2d?style=for-the-badge&logo=gmail" alt="Gmail"></a></p>
