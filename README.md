@@ -1,7 +1,15 @@
-### Radical
+<h1 align="center">Hello, I do stuff sometimes.</h1>
+<h3 align=center>
+  Name: Benjamin (aka: Goin or Radical)<br/><br/>
+	Experienced in: Python and Javascript<br/><br/>
+	Interested in: Rust<br/><br/>
+	Languages: English and Norwegian<br/><br/>
+	Likes: Linux
+</h3>
+<h2 align=center>Contact me through:</h2>
 
-- Learning to code in Rust
-- Interested in backend mostly
-- Knowledge of Python and Javascript
-- Looking for new projects
-- Reach me through <a href="https://discord.com">Radical#0420</a>, <a href="https://matrix.org">@radicall:matrix.org</a> or <a href="mailto:radical@radical.fun">radical@radical.fun</a>
+<p align="center"><a href="https://discordapp.com/users/368423564229083137" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Discord-2d2d2d?style=for-the-badge&logo=Discord" alt="Discord"></a> <a href="@radiicall:matrix.org"><img src="https://img.shields.io/badge/-Matrix-2d2d2d?style=for-the-badge&logo=Element" alt="Element"></a> <a href="mailto:radical@radical.fun"><img src="https://img.shields.io/badge/-Mail-2d2d2d?style=for-the-badge&logo=gmail" alt="Gmail"></a></p>
+<h2 align=center>My Programming Languages</h2>
+<p align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=radiicall&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radiicall&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="375" height="200">
+</p>
