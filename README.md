@@ -13,3 +13,5 @@
 <p align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=radiicall&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radiicall&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="375" height="200">
 </p>
+
+<a rel="me" href="https://ohai.social/@radical">Mastodon</a>
