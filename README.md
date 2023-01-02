@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I do stuff sometimes.</h1>
 <p align="center">
 	Name: Benjamin (aka: Goin or Radical)<br/><br/>
-	Experienced in: Python and Javascript<br/><br/>
 	Interested in: Rust<br/><br/>
 	Languages: English and Norwegian<br/><br/>
 	Likes: Linux
