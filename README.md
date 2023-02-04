@@ -29,4 +29,4 @@
 <p align=center>CPU: Ryzen 5 3600XT@4.4Ghz</br>GPU: RTX 3070</br>RAM: 32GB 3200Mhz</br>OS: Fedora Linux</p>
 
 <h3 align=center>Laptop</h3>
-<p align=center>CPU/GPU: Apple M1</br>RAM: 8GB</br>OS: macOS/Fedora Linux
+<p align=center>ModelMacbook Air (2020, M1)</br>RAM: 8GB</br>Capacity: 512GB</p>
