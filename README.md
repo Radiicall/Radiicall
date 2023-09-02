@@ -26,7 +26,7 @@
 <h2 align=center>Hardware</h2>
 
 <h3 align=center>Desktop</h3>
-<p align=center>CPU: Ryzen 5 3600XT@4.4Ghz</br>GPU: RTX 3070</br>RAM: 32GB 3200Mhz</br>OS: Fedora Linux</p>
+<p align=center>CPU: Ryzen 5 3600XT@4.4Ghz</br>GPU: RX 6900XT</br>RAM: 32GB 3200Mhz</br>OS: openSUSE Tumbleweed</p>
 
 <h3 align=center>Laptop</h3>
 <p align=center>Model: Macbook Air (2020, M1)</br>RAM: 8GB</br>Capacity: 512GB</br>OS: macOS/Asahi Linux</p>
