@@ -10,10 +10,6 @@
 
 <p align=center><img src="https://skillicons.dev/icons?i=rust,javascript,git,docker,python,bash,linux,vim,vscode&theme=dark"></p>
 
-<h2 align=center>Contact me through:</h2>
-
-<p align="center"><a href="mailto:radical@radical.fun"><img src="https://img.shields.io/badge/-Mail-2d2d2d?style=for-the-badge&logo=gmail" alt="Mail"></a> <a href="https://www.linkedin.com/in/benjamin-goin-johnsen-671a61249/"><img src="https://img.shields.io/badge/-LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a rel="me" href="https://ohai.social/@radical"><img src="https://img.shields.io/badge/-Mastodon-2d2d2d?style=for-the-badge&logo=Mastodon" alt="Mastodon"></a></p>
-
 <h2 align=center>Github Stats</h2>
 
 <p align="center">
