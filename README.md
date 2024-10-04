@@ -28,4 +28,4 @@
 <p align=center>CPU: Ryzen 5 3600XT@4.4Ghz</br>GPU: RX 6900XT</br>RAM: 32GB 3200Mhz</br>OS: Fedora Linux</p>
 
 <h3 align=center>Laptop</h3>
-<p align=center>Model: Macbook Air (2020, M1)</br>RAM: 8GB</br>Capacity: 512GB</br>OS: macOS/Asahi Linux</p>
+<p align=center>Model: Lenovo Yoga Slim 7x</br>CPU: Snapdragon X Elite X1E78100</br>RAM: 32GB</br>Capacity: 1024GB</br>OS: Windows/Gentoo Linux</p>
