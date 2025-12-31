@@ -25,7 +25,7 @@
 <h2 align=center>Hardware</h2>
 
 <h3 align=center>Desktop</h3>
-<p align=center>CPU: Ryzen 5 3600XT@4.4Ghz</br>GPU: RX 6900XT</br>RAM: 32GB 3200Mhz</br>OS: Fedora Linux</p>
+<p align=center>CPU: Ryzen 5 3600XT@4.4Ghz</br>GPU: RX 6900XT</br>RAM: 32GB 3200Mhz</br>OS: NixOS</p>
 
 <h3 align=center>Laptop</h3>
-<p align=center>Model: Lenovo Yoga Slim 7x</br>CPU: Snapdragon X Elite X1E78100</br>RAM: 32GB</br>Capacity: 1024GB</br>OS: Windows/Fedora Linux 43 Rawhide</p>
+<p align=center>Model: Lenovo Yoga Slim 7x</br>CPU: Snapdragon X Elite X1E78100</br>RAM: 32GB</br>Capacity: 1024GB</br>OS: Windows/NixOS</p>
